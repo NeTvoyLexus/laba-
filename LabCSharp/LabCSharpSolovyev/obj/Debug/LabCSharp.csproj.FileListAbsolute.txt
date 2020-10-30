@@ -1,0 +1,9 @@
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\bin\Debug\LabCSharp.exe.config
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\bin\Debug\LabCSharp.exe
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\bin\Debug\LabCSharp.pdb
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Debug\LabCSharp.csprojAssemblyReference.cache
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Debug\LabCSharp.Form1.resources
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Debug\LabCSharp.Properties.Resources.resources
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Debug\LabCSharp.csproj.GenerateResource.cache
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Debug\LabCSharp.exe
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Debug\LabCSharp.pdb

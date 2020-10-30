@@ -1,0 +1,19 @@
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\bin\Release\LabCSharp.exe.config
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\bin\Release\LabCSharp.exe
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\bin\Release\LabCSharp.pdb
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Release\LabCSharp.csprojAssemblyReference.cache
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Release\LabCSharp.Form1.resources
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Release\LabCSharp.Properties.Resources.resources
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Release\LabCSharp.csproj.GenerateResource.cache
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Release\LabCSharp.exe
+C:\Users\bakha\source\repos\LabCSharp\LabCSharp\obj\Release\LabCSharp.pdb
+C:\Users\user\Downloads\LabCSharp (1)\LabCSharp\LabCSharp\bin\Release\LabCSharp.exe.config
+C:\Users\user\Downloads\LabCSharp (1)\LabCSharp\LabCSharp\bin\Release\LabCSharp.exe
+C:\Users\user\Downloads\LabCSharp (1)\LabCSharp\LabCSharp\bin\Release\LabCSharp.pdb
+C:\Users\user\Downloads\LabCSharp (1)\LabCSharp\LabCSharp\obj\Release\LabCSharp.csprojAssemblyReference.cache
+C:\Users\user\Downloads\LabCSharp (1)\LabCSharp\LabCSharp\obj\Release\LabCSharp.Form1.resources
+C:\Users\user\Downloads\LabCSharp (1)\LabCSharp\LabCSharp\obj\Release\LabCSharp.Properties.Resources.resources
+C:\Users\user\Downloads\LabCSharp (1)\LabCSharp\LabCSharp\obj\Release\LabCSharp.csproj.GenerateResource.cache
+C:\Users\user\Downloads\LabCSharp (1)\LabCSharp\LabCSharp\obj\Release\LabCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\LabCSharp (1)\LabCSharp\LabCSharp\obj\Release\LabCSharp.exe
+C:\Users\user\Downloads\LabCSharp (1)\LabCSharp\LabCSharp\obj\Release\LabCSharp.pdb
